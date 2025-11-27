@@ -8,3 +8,5 @@ scikit-learn
 soundfile
 torch
 unidecode
+transformers==4.23
+modelscope[framework]
